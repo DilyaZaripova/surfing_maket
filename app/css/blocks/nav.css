@@ -1,0 +1,21 @@
+.nav-wrapper {
+  padding-top: 92px;
+  width: 1440px;
+  margin: 0 auto 220px auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline; }
+
+.nav__item {
+  color: #aaaaaa;
+  font-size: 15px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  margin-right: 70px;
+  text-decoration: none; }
+  .nav__item:last-child {
+    margin-right: 0; }
+  .nav__item--active, .nav__item:hover, .nav__item:focus, .nav__item:active {
+    color: #111111;
+    text-decoration: none; }

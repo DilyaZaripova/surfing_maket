@@ -1,0 +1,5 @@
+font-family: Avenir; 400 500
+font-family: "Playfair Display";
+font-family: "Avenir - Roman";
+font-family: "Avenir - Book Oblique";
+font-family: "Avenir - Heavy";
